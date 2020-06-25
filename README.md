@@ -1,2 +1,2 @@
 # XUOWiki-Issue-Tracker
-The issue tracker for XUOWiki
+Wiki is still constructing, not able to edit yet.
